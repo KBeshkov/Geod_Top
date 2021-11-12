@@ -1,4 +1,4 @@
-===Geodesic-based distance reveals non-linear topological featuresin neural activity from mouse visual cortex===
+===Geodesic-based distance reveals nonlinear topological featuresin neural activity from mouse visual cortex===
 
 
 Before running any of the code the Algorithms.py should be run as it is used in every other script.
